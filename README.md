@@ -9,3 +9,4 @@ Use this Format:
 |Edward Lane|[projectdo](https://github.com/projectdo)||
 |Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
+|Cesar Corzo|[cesarcorzo](https://github.com/cesarcorzo)||
