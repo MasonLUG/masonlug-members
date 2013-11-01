@@ -7,3 +7,4 @@ Use this Format:
 |Mark McCaskey|[MarkMcCaskey](https://github.com/MarkMcCaskey)||
 |Glenn Magus Harvey|[GlennMagusHarvey](https://github.com/GlennMagusHarvey)||
 |Edward Lane|[projectdo](https://github.com/projectdo)||
+|Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
