@@ -11,3 +11,4 @@ Use this Format:
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
 |Cesar Corzo|[cesarcorzo](https://github.com/cesarcorzo)||
 |Bradford Webb|[brjwebb](https://github.com/brjwebb)|Soft Dev Project Member|
+|Renfred Harper| [RenfredH04](https://github.com/RenfredH04) | [Website](https://github.com/MasonLUG/website) Dev |
