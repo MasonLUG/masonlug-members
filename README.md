@@ -6,3 +6,4 @@ Use this Format:
 |Samer Masterson|[samertm](https://github.com/samertm)||
 |Mark McCaskey|[MarkMcCaskey](https://github.com/MarkMcCaskey)||
 |Glenn Magus Harvey|[GlennMagusHarvey](https://github.com/GlennMagusHarvey)||
+|Edward Lane|[projectdo](https://github.com/projectdo)||
