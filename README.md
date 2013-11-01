@@ -8,3 +8,4 @@ Use this Format:
 |Glenn Magus Harvey|[GlennMagusHarvey](https://github.com/GlennMagusHarvey)||
 |Edward Lane|[projectdo](https://github.com/projectdo)||
 |Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
+|Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
