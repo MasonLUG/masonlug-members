@@ -10,3 +10,4 @@ Use this Format:
 |Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
 |Cesar Corzo|[cesarcorzo](https://github.com/cesarcorzo)||
+|Bradford Webb|[brjwebb](https://github.com/brjwebb)|Soft Dev Project Member|
