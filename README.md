@@ -4,3 +4,4 @@ Use this Format:
 | **Name** | **GitHub**| **Notes** |
 |:---------|:----------|:----------|
 |Samer Masterson|[samertm](https://github.com/samertm)||
+|Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
