@@ -7,3 +7,4 @@ Use this Format:
 |Mark McCaskey|[MarkMcCaskey](https://github.com/MarkMcCaskey)||
 |Glenn Magus Harvey|[GlennMagusHarvey](https://github.com/GlennMagusHarvey)||
 |Edward Lane|[projectdo](https://github.com/projectdo)||
+|Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
