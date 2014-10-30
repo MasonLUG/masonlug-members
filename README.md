@@ -13,3 +13,4 @@ Use this Format:
 |Renfred Harper| [RenfredH04](https://github.com/RenfredH04) | [Website](https://github.com/MasonLUG/website) Dev |
 |Samer Masterson|[samertm](https://github.com/samertm)||
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
+|Rob Bradley|[redjoker](https://github.com/redjoker)|This is Rob|
