@@ -13,6 +13,8 @@ Use this Format:
 |Renfred Harper| [RenfredH04](https://github.com/RenfredH04) | [Website](https://github.com/MasonLUG/website) Dev |
 |Samer Masterson|[samertm](https://github.com/samertm)||
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
+<<<<<<< HEAD
 |Rob Bradley|[redjoker](https://github.com/redjoker)|This is Rob|
 |Bryan Hoyle|[triclops200](https://github.com/triclops200)||
 |Javier Hilty|[Inquisitor17](https://github.com/Inquisitor17)||
+|Grady Moran|[Minds-Eye](https://github.com/Minds-Eye)||
