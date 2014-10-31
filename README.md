@@ -14,3 +14,4 @@ Use this Format:
 |Samer Masterson|[samertm](https://github.com/samertm)||
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
 |Rob Bradley|[redjoker](https://github.com/redjoker)|This is Rob|
+|Bryan Hoyle|[triclops200](https://github.com/triclops200)||
