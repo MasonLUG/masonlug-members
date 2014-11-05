@@ -3,15 +3,15 @@ Use this Format:
 
 | **Name** | **GitHub**| **Notes** |
 |:---------|:----------|:----------|
-|Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
+|Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|(old VP)|
 |Bradford Webb|[brjwebb](https://github.com/brjwebb)|Soft Dev Project Member|
 |Cesar Corzo|[cesarcorzo](https://github.com/cesarcorzo)||
 |David Shrestha|[fmazon3](https://github.com/fmazon3)|apprentice wizard|
 |Edward Lane|[projectdo](https://github.com/projectdo)||
 |Glenn Magus Harvey|[GlennMagusHarvey](https://github.com/GlennMagusHarvey)||
-|Mark McCaskey|[MarkMcCaskey](https://github.com/MarkMcCaskey)||
+|Mark McCaskey|[MarkMcCaskey](https://github.com/MarkMcCaskey)|Current president|
 |Renfred Harper| [RenfredH04](https://github.com/RenfredH04) | [Website](https://github.com/MasonLUG/website) Dev |
-|Samer Masterson|[samertm](https://github.com/samertm)||
+|Samer Masterson|[samertm](https://github.com/samertm)|Previous president|
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
 |Rob Bradley|[redjoker](https://github.com/redjoker)|This is Rob|
 |Bryan Hoyle|[triclops200](https://github.com/triclops200)||
