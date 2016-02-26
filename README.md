@@ -18,3 +18,6 @@ Use this Format:
 |Javier Hilty|[Inquisitor17](https://github.com/Inquisitor17)||
 |Grady Moran|[Minds-Eye](https://github.com/Minds-Eye)||
 |Lilas Dinh|[hatFolk](https://github.com/hatFolk)|To the Moon!|
+
+
+[![Join the chat at https://gitter.im/hatFolk/masonlug-members](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hatFolk/masonlug-members?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
